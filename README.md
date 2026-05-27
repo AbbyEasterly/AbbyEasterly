@@ -23,5 +23,5 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nodejs,react,mongodb,postgres,css,js,git,postman,aws,vscode,replit,docker" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,postgres,css,js,git,postman,aws,vscode,replit,docker" />
 </p>
