@@ -16,7 +16,8 @@
  - VS Code
  - Replit
 
-  <h2> ☁️ $\texttt{Current Projects}$ </h2>
+  <h2> ☁️ $\texttt{Projects on Other Platforms}$ </h2>
 
+  - Kaggle: https://www.kaggle.com/abby614
   - More coming soon
 
