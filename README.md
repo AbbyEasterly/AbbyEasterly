@@ -16,8 +16,12 @@
  - VS Code
  - Replit
 
-  <h2> ☁️ $\texttt{Projects on Other Platforms}$ </h2>
+  <h2> ☁️ $\texttt{More of my Work}$ </h2>
 
   - Kaggle: https://www.kaggle.com/abby614
-  - More coming soon
+
+
+  <h2> 🌷 $\texttt{Current Projects}$ </h2>
+  
+  - More coming soon!
 
