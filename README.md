@@ -16,12 +16,7 @@
  - VS Code
  - Replit
 
-  <h2> ☁️ $\texttt{Github Stats}$ </h2>
+  <h2> ☁️ $\texttt{Current Projects}$ </h2>
 
-<div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbbyEasterly&theme=vue&hide_border=true&border_radius=4.9&card_width=800" alt="GitHub Streak" /></a>
-</div>
+  - More coming soon
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,nodejs,react,mongodb,postgres,css,js,git,postman,aws,vscode,replit,docker" />
-</p>
