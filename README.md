@@ -1,6 +1,6 @@
 <h1> $\textcolor{black}{\texttt{I'm Abby}}$ </h1>
 
-Hello! I recently earned a Bachelor of Science in Computer Science, with interests in LLMs, software engineering, and frontend UI/UX development.
+Hello! I recently earned a Bachelor of Science in Computer Science, with interests in LLMs, software engineering, data science, and frontend UI/UX development.
 
  <h2> ☀️ $\texttt{Languages}$ </h2>
  
