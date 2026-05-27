@@ -1,4 +1,4 @@
-<h1> $\textcolor{black}{\texttt{I'm Abby}}$ </h1>
+<h1> ${\texttt{I'm Abby}}$ </h1>
 
 Hello! I recently earned a Bachelor of Science in Computer Science, with interests in LLMs, software engineering, data science, and frontend UI/UX development.
 
