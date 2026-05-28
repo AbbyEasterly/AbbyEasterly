@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://www.notebookandpenguin.com/wp-content/uploads/2023/03/pastel-blue-color-palette.png" width="100%" height = "70px" />
+<img src="https://www.color-hex.com/palettes/1294.png" width="100%" height = "70px" />
 
 <h1> ${\texttt{I'm Abby}}$ </h1>
 
 ### `Computer Science Graduate` • `Data Scientist` • `Frontend Developer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=6a8ebe&center=true&vCenter=true&width=500&lines=Exploring+LLMs+and+AI+Systems;Building+Modern+Web+Experiences;Interested+in+Data+Science+%26+UI%2FUX;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=005b96&center=true&vCenter=true&width=500&lines=Exploring+LLMs+and+AI+Systems;Building+Modern+Web+Experiences;Interested+in+Data+Science+%26+UI%2FUX;Always+Learning+New+Technologies" />
 
 </div>
 
