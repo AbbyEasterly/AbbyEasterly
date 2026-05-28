@@ -48,5 +48,5 @@ Hello! I recently earned a Bachelor of Science in Computer Science and am passio
 
 
 
-<img src="https://www.notebookandpenguin.com/wp-content/uploads/2023/03/pastel-blue-color-palette.png" width="100%" height = "35px" />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://www.color-hex.com/palettes/1294.png" /> <source media="(prefers-color-scheme: light)" srcset="https://www.notebookandpenguin.com/wp-content/uploads/2023/03/pastel-blue-color-palette.png" /> <img src="https://www.notebookandpenguin.com/wp-content/uploads/2023/03/pastel-blue-color-palette.png" width="100%" height = "35px" /> </picture> 
 
